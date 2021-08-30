@@ -5,7 +5,7 @@ import { RepoComponent } from './components/repo/repo.component';
 import { GithubComponent } from './components/github/github.component';
 
 const routes: Routes = [
-  {path: 'users', component:GitUsersComponent},
+  {path: 'users', component:GithubComponent},
   {path: 'repositories', component:RepoComponent},
   {path: '', redirectTo:"./components/github/github.component", pathMatch: "full"},
 ];
