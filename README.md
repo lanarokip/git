@@ -34,5 +34,5 @@ Mail: lankipkoecharo@gmail.com
 ### License
 [License](./license)
 ### The App screenshots
-![Screenshot one](./src/assets/one.png)
-![Screenshot two](./src/assets/one2.png)
+![Screenshot one](./src/assets/screen1.png)
+![Screenshot two](./src/assets/sreen2.png)
