@@ -1,3 +1,7 @@
+img{
+    border: blanchedalmond;
+    border-radius: 150px;
+}
 .menu{
     margin-left: 5%;
 }
@@ -13,4 +17,7 @@
 .searchBox{
     width: 40%;
     margin: auto;
+}
+.background{
+    background-color: black;
 }

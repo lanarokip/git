@@ -12,5 +12,4 @@ export class GithubserviceService {
     return this.http.get("https://api.github.com/users/" + user+ "?access_token=" + environment.api_key)
     .pipe(((response:any)=>response));
   }
-  // users(){
 }
